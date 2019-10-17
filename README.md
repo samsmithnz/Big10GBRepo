@@ -1,4 +1,3 @@
 # Big10GBRepo
 
-Testing 4.85B of content, with 63,922 files
-(Aiming for 10GB eventually, with 150k files)
+Testing 10.20GB of content, with 134,756 files
